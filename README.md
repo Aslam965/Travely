@@ -3,8 +3,10 @@
 Welcome to the Travely project! This repository contains both the frontend and backend for a flight reservation system.
 
 ## Project Structure:
-- **/Travely-frontend**: This is the frontend React application where users can interact with the system, search for flights, and book tickets.
-- **/Travely-backend**: This is the backend Node.js server that handles the flight data, user authentication, and generates PDF tickets.
+- **Travely-frontend**: This is the frontend React application where users can interact with the system, search for flights, and book tickets.
+- https://github.com/Aslam965/Travely_Frontend
+- **Travely-backend**: This is the backend Node.js server that handles the flight data, user authentication, and generates PDF tickets.
+- https://github.com/Aslam965/Travely_Backend
 
 ## Features:
 - **Flight Booking**: Users can select flights from a list, book a flight, and receive a ticket.
