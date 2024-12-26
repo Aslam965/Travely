@@ -26,9 +26,4 @@ Travely Live Website - https://travelylk.netlify.app/
 
 
 
-![IMG_4269](https://github.com/IsuruX98/Travely/assets/104721314/6363b329-bf0d-4f96-82fe-add9268a8f23)
-
-![IMG_4270](https://github.com/IsuruX98/Travely/assets/104721314/b20d6154-216b-49f7-bd3a-3ca4d6d6313d)
-
-
 
