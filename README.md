@@ -18,11 +18,6 @@ Before starting, make sure you have the following installed on your machine:
 - Node.js (for both backend and frontend)
 - npm (Node package manager)
 
-# Project Name - Tourism and Travel management system (Travely)
-
-*Original one is integrated in SLIIT organization's private repository
-
-Travely Live Website - https://travelylk.netlify.app/
 
 
 
